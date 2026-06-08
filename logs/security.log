@@ -1,0 +1,26 @@
+2026-05-26T21:51:09.626Z [INFO]: Juice Shop server started
+2026-05-26T22:34:58.565Z [INFO]: Juice Shop server started
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
+2026-05-26T22:49:40.042Z [INFO]: Juice Shop server started
+{"level":"warn","message":"Failed login attempt: test@test.com from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Failed login attempt: test@test.com from IP: ::ffff:127.0.0.1"}
+2026-05-26T23:03:29.452Z [INFO]: Juice Shop server started
+{"level":"warn","message":"Failed login attempt: admin@juice-sh.op from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Failed login attempt: admin@juice-sh.op from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Failed login attempt: test@test.com from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Failed login attempt: test@test.com from IP: ::ffff:127.0.0.1"}
+{"level":"warn","message":"Blocked attack — invalid input: ' OR 1=1-- from IP: ::ffff:127.0.0.1"}
