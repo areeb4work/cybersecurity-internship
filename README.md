@@ -1,4 +1,4 @@
-# Cybersecurity Internship — OWASP Juice Shop Security Assessment
+# Cybersecurity Internship - OWASP Juice Shop Security Assessment
 
 **Duration:** 3 Weeks | **Tool:** OWASP ZAP 2.17.0 | **App:** OWASP Juice Shop
 
@@ -10,7 +10,7 @@ vulnerable Node.js web application used for security training.
 
 ---
 
-## Week 1 — Vulnerability Assessment
+## Week 1 - Vulnerability Assessment
 
 ### Setup Commands
 ```bash
@@ -21,15 +21,15 @@ npm start
 ```
 
 ### Tools Used
-- OWASP ZAP 2.17.0 — automated scanning + proxy
-- Firefox Developer Tools — manual XSS and header testing
-- Browser Console — API endpoint inspection
+- OWASP ZAP 2.17.0 - automated scanning + proxy
+- Firefox Developer Tools - manual XSS and header testing
+- Browser Console - API endpoint inspection
 
-### Vulnerabilities Found — 9 Total
+### Vulnerabilities Found - 9 Total
 
 | # | Vulnerability | Severity | Found By |
 |---|---|---|---|
-| 1 | SQL Injection — Auth Bypass | Critical | Manual Testing |
+| 1 | SQL Injection - Auth Bypass | Critical | Manual Testing |
 | 2 | Cross-Site Scripting (XSS) | High | Manual Testing |
 | 3 | Exposed Admin Config Endpoint | High | ZAP History |
 | 4 | Mass User Data Exposure | High | Browser Console |
@@ -41,7 +41,7 @@ npm start
 
 ---
 
-## Week 2 — Security Fixes
+## Week 2 - Security Fixes
 
 ### Packages Installed
 ```bash
@@ -59,12 +59,12 @@ npm install --save-dev @types/bcrypt
 | routes/search.ts | sanitizeHtml added | XSS in search bar |
 
 ### Verification
-All fixes tested live — SQL injection blocked, XSS JavaScript
+All fixes tested live - SQL injection blocked, XSS JavaScript
 execution blocked, security headers confirmed in browser DevTools.
 
 ---
 
-## Week 3 — Advanced Security & Logging
+## Week 3 - Advanced Security & Logging
 
 ### Packages Installed
 ```bash
@@ -74,7 +74,7 @@ npm install winston
 ### What Was Implemented
 - **Nmap** port scanning against localhost:3000
 - **Winston** security logging added to 3 TypeScript files
-- **Security checklist** — 31 best practices documented
+- **Security checklist** - 31 best practices documented
 
 ### Files Modified for Logging
 
@@ -119,5 +119,6 @@ cybersecurity-internship/
 ## Disclaimer
 > All security testing was performed exclusively on a local
 > instance of OWASP Juice Shop running at localhost:3000.
-> This is a deliberately vulnerable application designed for
-> security education. No real systems were targeted.
+
+## Author
+> Areeb Ahsan
